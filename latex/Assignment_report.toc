@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Ph^^e1^^ba^^a7n gi^^e1^^bb^^9bi thi^^e1^^bb^^87u}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Gi^^e1^^bb^^9bi thi^^e1^^bb^^87u v^^e1^^bb^^81 Pygame}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Pygame l^^c3^^a0 g^^c3^^ac ?}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}L^^e1^^bb^^8bch s^^e1^^bb^^ad h^^c3^^acnh h^^c3^^a0nh}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}short}{2}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}Gi^^e1^^bb^^9bi thi^^e1^^bb^^87u v^^e1^^bb^^81 Socket}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Socket l^^c3^^a0 g^^c3^^ac ?}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}L^^e1^^bb^^8bch s^^e1^^bb^^ad h^^c3^^acnh h^^c3^^a0nh}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}short}{4}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}short}{4}{subsubsection.1.2.4}%
+\contentsline {section}{\numberline {2}Gi^^e1^^bb^^9bi thi^^e1^^bb^^87u v^^e1^^bb^^81 Game Ping Pong}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}L^^c3^^bd do}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}M^^e1^^bb^^a5c ti^^c3^^aau}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}^^c4^^90^^e1^^bb^^8bnh h^^c6^^b0^^e1^^bb^^9bng ph^^c3^^a1t tri^^e1^^bb^^83n}{5}{subsection.2.3}%
